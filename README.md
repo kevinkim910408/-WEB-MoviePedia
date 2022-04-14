@@ -14,7 +14,3 @@
 
 # Responsive
 ![3](https://user-images.githubusercontent.com/59503331/163299917-dc513c27-25ad-4bf3-88b8-4efe96a220d9.PNG)
-
-
-#Video
-![AnyConv com__MoviePedia](https://user-images.githubusercontent.com/59503331/163303469-fb673bd4-f243-4638-85ee-95cc7b9965d1.jpg)
